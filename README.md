@@ -1,2 +1,16 @@
-# Tiktokdownload-TG-bot
-A telegram bot that automatically upload tiktok video to telegram as you send a tiktok share link
+### Usage
+
+#### Step 1: install requirements
+```shell
+pip install -r requirements.txt
+```
+
+#### Step 2: edit the config file
+```shell
+cp tg_bot_config.py.example tg_bot_config.py
+```
+
+#### Step 3: run the bot
+```shell
+python main.py
+```
